@@ -1,4 +1,4 @@
-# INFO498GroupPorject
+# Gender Disparity in Video Games - INFO498 Group Porject
 
 Gender Representation in Video Games
 
